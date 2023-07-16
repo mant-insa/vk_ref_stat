@@ -1,0 +1,17 @@
+{
+    "name": "vk/vk_project",
+    "authors": [
+        {
+            "name": "Петренко Дмитрий",
+            "email": "petrenkooppai@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "Src/"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+.idea
+/*.txt
+/*.json
+/*.log
+!/composer.json
+vendor
